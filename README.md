@@ -38,6 +38,7 @@
 <p align="center">
   <a href="#Objective">Objective</a> •
   <a href="#Dataset">Dataset</a> •
+  <a href="#Results">Results</a> •
   <a href="#credits">Credits</a> •
   <a href="#support">Support</a>
 </p>
@@ -104,6 +105,15 @@ terms of our dataset. The questions are as follows:
 
 ## Results
 
+<p>The graph above shows the relationships between the categories of variables. He can be
+interpreted as follows:
+- Categories with a similar profile are grouped together.
+- Negatively correlated categories are positioned on opposite sides of
+the origin of the graph (opposite quadrants).
+- The distance between the categories and the origin measures the quality of the categories. Dots
+which are far from the origin are well represented by the ACM.
+</p>
+  
 <div align="center"> 
   <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/img1.PNG" alt="screenshot" />
 </div>
@@ -116,6 +126,9 @@ terms of our dataset. The questions are as follows:
   <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/img3.PNG" alt="screenshot" />
 </div>
 
+  <p>
+  Top 10 active variables with the highest cos2
+  </p>  
 <div align="center"> 
   <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/img4.PNG" alt="screenshot" />
 </div>
