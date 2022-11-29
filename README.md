@@ -1,8 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students"><https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/
-img src="INSEA_logo.png" alt="Markdownify" width="200"></a>
+  <a href="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students"><img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/INSEA_logo.png" alt="Markdownify" width="200"></a>
   <br>
   Relationship between study methods, personality and academic performance of INSEA students and their state of health
   <br>
@@ -44,18 +43,15 @@ img src="INSEA_logo.png" alt="Markdownify" width="200"></a>
 </p>
 
 <div align="center"> 
-  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/
-ml1.png" alt="screenshot" width="600" height="350"/>
+  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/ml1.png" alt="screenshot" width="600" height="350"/>
 </div>
 
 <div align="center"> 
-  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/
-ml2.png" alt="screenshot" />
+  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/ml2.png" alt="screenshot" />
 </div>
 
 <div align="center"> 
-  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/
-ml3.png" alt="screenshot" />
+  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/ml3.png" alt="screenshot" />
 </div>
 
 ## Objective
@@ -88,48 +84,40 @@ terms of our dataset. The questions are as follows:
 <br>
 
 <div align="center"> 
-  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/
-data.png" alt="screenshot" />
+  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/data.png" alt="screenshot" />
 </div>
 
 
 <div align="center"> 
-  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/
-d2.png" alt="screenshot" />
+  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/d2.png" alt="screenshot" />
 </div>
 
 <div align="center"> 
-  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/
-d3.png" alt="screenshot" />
+  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/d3.png" alt="screenshot" />
 </div>
 
 
 <div align="center"> 
-  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/
-d6.png" alt="screenshot" />
+  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/d6.png" alt="screenshot" />
 </div>
 
 
 ## Results
 
 <div align="center"> 
-  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/
-img1.png" alt="screenshot" />
+  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/img1.png" alt="screenshot" />
 </div>
 
 <div align="center"> 
-  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/
-img2.png" alt="screenshot" />
+  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/img2.png" alt="screenshot" />
 </div>
 
 <div align="center"> 
-  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/
-img3.png" alt="screenshot" />
+  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/img3.png" alt="screenshot" />
 </div>
 
 <div align="center"> 
-  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/
-img4.png" alt="screenshot" />
+  <img src="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/blob/main/README-MCA-insea-research/img4.png" alt="screenshot" />
 </div>
 
 > **Note**
