@@ -19,13 +19,13 @@
     <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555"
          alt="Gitter">
   </a>
-  <a href="https://github.com/wassima-manssour/YOLOv5-face-mask-detection/network/members">
+  <a href="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/network/members">
     <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
   </a>
-  <a href="https://github.com/wassima-manssour/YOLOv5-face-mask-detection/stargazers">
+  <a href="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/stargazers">
     <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
   </a>
-  <a href="https://github.com/wassima-manssour/YOLOv5-face-mask-detection/issues">
+  <a href="https://github.com/wassima-manssour/ACM_studymethods-personality-and-performance-insea-students/issues">
     <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
   </a>
   <!--<a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
